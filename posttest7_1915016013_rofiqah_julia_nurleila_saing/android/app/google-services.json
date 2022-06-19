@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85859081302",
+    "project_id": "posttest7-1915016013-rofiqah",
+    "storage_bucket": "posttest7-1915016013-rofiqah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85859081302:android:b293a8280273d9453aeff7",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_1915016013_rofiqah_julia_nurleila_saing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85859081302-tpkufhtm6a07ff6k9m9eb914qnf1infb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBLAbEwxz4BLusQyYpdQ8rUSwK3Fbei0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85859081302-tpkufhtm6a07ff6k9m9eb914qnf1infb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
